@@ -1,7 +1,7 @@
 demo_git
 ========
 
-des modifications pour engendrer un conflits
+une modification qui va engendre des conflits
 mofication depuis github
 modification fait dans branche mon-test
 
