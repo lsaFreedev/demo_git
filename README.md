@@ -1,7 +1,7 @@
 demo_git
 ========
 
-un demo pour tester qui se passe bien
+une modification qui va engendre des conflits
 mofication depuis github
 modification fait dans branche mon-test
 
